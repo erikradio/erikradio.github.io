@@ -1,0 +1,27 @@
+# site
+title: erik radio
+baseurl: "/"
+# url: "http://lily.work"
+# favicon: "/assets/sample/ico.png"
+g_analytics: UA-98514819-2
+
+# bio
+header: erik radio
+desc: >
+  metadata librarian
+
+# posts
+post_title: Title
+
+
+# post detail
+prev-next: false
+
+
+
+# build settings
+markdown: kramdown
+# theme: louie
+exclude:
+  - Gemfile
+  - Gemfile.lock
