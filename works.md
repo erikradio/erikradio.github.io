@@ -24,6 +24,8 @@ Radio, E. (2014). “Information Continuity: A Temporal Approach to Assessing Me
 
 ### conference presentations
 
+Radio, E. (2018). 'Metadata as Content: Navigating the Intersection of Repositories, Documentation, and Legacy Futures.' Presentation at the annual Dublin Core Conference, Porto, Portugal.
+
 Blakiston, R.,  Radio, E., and Wallace, N.(2018). 'I’ve never seen anything like this: student interpretations of metadata.' Presentation at Electronic Resources & Libraries Conference, Austin, TX.
 
 Radio, E. and O’Meara, E. (2017). 'Defining and Reconciling Archival Contexts.' Presentation at the annual DLF Forum, Pittsburgh, PA. [https://osf.io/paet3/](https://osf.io/paet3/)
