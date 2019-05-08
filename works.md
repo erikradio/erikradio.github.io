@@ -24,6 +24,8 @@ Radio, E. (2014). “Information Continuity: A Temporal Approach to Assessing Me
 
 ### conference presentations
 
+Radio, E. (2019). 'A Survey of Time-Based Approaches to Serializing Linked Data.' Presentation at the LD4 Conference on Linked Data in Libraries, Boston, MA.
+
 Radio, E. (2018). 'Metadata as Content: Navigating the Intersection of Repositories, Documentation, and Legacy Futures.' Presentation at the annual Dublin Core Conference, Porto, Portugal.
 
 Blakiston, R.,  Radio, E., and Wallace, N.(2018). 'I’ve never seen anything like this: student interpretations of metadata.' Presentation at Electronic Resources & Libraries Conference, Austin, TX.
