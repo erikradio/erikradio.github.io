@@ -23,6 +23,7 @@ Radio, E. (2014). “Information Continuity: A Temporal Approach to Assessing Me
 
 
 ### conference presentations
+Kalwara, J. and Radio. E. (2019). "Cataloging in a Linked Data Environment: An Exploration by the University of Colorado Boulder." Presentation at the annual ALA Conference, Washington, D.C.
 
 Radio, E. (2019). 'A Survey of Time-Based Approaches to Serializing Linked Data.' Presentation at the LD4 Conference on Linked Data in Libraries, Boston, MA.
 
