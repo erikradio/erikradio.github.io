@@ -51,6 +51,8 @@ Radio, E. (2014). Looking into Infinity: Using the Deep Web as a Pedagogical Res
 
 ### posters
 
+Elsborg, D., Wilson, A., Mika, K., Radio, E., Ramey, M., and Viggio, A. (2019). Opportunities for Intra-institutional Linked Open Data: Towards a Campus Knowledge Graph. Poster at the annual VIVO Conference, Podgorica, Montenegro.
+
 Ortega, É. and Radio, E. (2017). A Handbook of Electronic Literature Reading. Poster at the annual Digital Humanities Conference, Montréal, QC.
 
 Radio, E. (2015). Synopticity and RDF Implementation in Special Collections. Poster presented at the annual DLF Forum, Vancouver, BC. hdl:[http://hdl.handle.net/1808/18745](http://hdl.handle.net/1808/18745)
