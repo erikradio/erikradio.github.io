@@ -25,42 +25,42 @@ Radio, E. (2014). “Information Continuity: A Temporal Approach to Assessing Me
 ### conference presentations
 Kalwara, J. and Radio. E. (2019). "Cataloging in a Linked Data Environment: An Exploration by the University of Colorado Boulder." Presentation at the annual ALA Conference, Washington, D.C.
 
-Radio, E. (2019). 'A Survey of Time-Based Approaches to Serializing Linked Data.' Presentation at the LD4 Conference on Linked Data in Libraries, Boston, MA.
+Radio, E. (2019). "A Survey of Time-Based Approaches to Serializing Linked Data." Presentation at the LD4 Conference on Linked Data in Libraries, Boston, MA.
 
-Radio, E. (2018). 'Metadata as Content: Navigating the Intersection of Repositories, Documentation, and Legacy Futures.' Presentation at the annual Dublin Core Conference, Porto, Portugal.
+Radio, E. (2018). "Metadata as Content: Navigating the Intersection of Repositories, Documentation, and Legacy Futures." Presentation at the annual Dublin Core Conference, Porto, Portugal.
 
-Blakiston, R.,  Radio, E., and Wallace, N.(2018). 'I’ve never seen anything like this: student interpretations of metadata.' Presentation at Electronic Resources & Libraries Conference, Austin, TX.
+Blakiston, R.,  Radio, E., and Wallace, N.(2018). "I’ve never seen anything like this: student interpretations of metadata." Presentation at Electronic Resources & Libraries Conference, Austin, TX.
 
-Radio, E. and O’Meara, E. (2017). 'Defining and Reconciling Archival Contexts.' Presentation at the annual DLF Forum, Pittsburgh, PA. [https://osf.io/paet3/](https://osf.io/paet3/)
+Radio, E. and O’Meara, E. (2017). "Defining and Reconciling Archival Contexts." Presentation at the annual DLF Forum, Pittsburgh, PA. [https://osf.io/paet3/](https://osf.io/paet3/)
 
-Radio, E. and Ortega, É. (2017). Electronic Literature and Technographic Metadata. Presentation at the annual DLF Forum, Pittsburgh, PA.
+Radio, E. and Ortega, É. (2017). "Electronic Literature and Technographic Metadata." Presentation at the annual DLF Forum, Pittsburgh, PA.
 
-Graham, S., Lee, D.J., Radio, E., and Tarver, H. (2017). From Authority Control to Identity Management: Managing – Not Controlling. Presentation at the annual American Association of Law Librarians conference, Austin, TX.
+Graham, S., Lee, D.J., Radio, E., and Tarver, H. (2017). "From Authority Control to Identity Management: Managing – Not Controlling." Presentation at the annual American Association of Law Librarians conference, Austin, TX.
 
-Radio, E. and Kompare, C. (2016). Object-Oriented UX and Metadata for Digital Collections. Presentation at the annual DLF Forum, Milwaukee, WI.
+Radio, E. and Kompare, C. (2016). "Object-Oriented UX and Metadata for Digital Collections." Presentation at the annual DLF Forum, Milwaukee, WI.
 
-Hanrath, S. and E. Radio (2015). User Search Terms and Controlled Subject Vocabularies in an Institutional Repository. Presentation at the annual Open Repositories Conference, Indianapolis, IN.
+Hanrath, S. and E. Radio (2015). "User Search Terms and Controlled Subject Vocabularies in an Institutional Repository." Presentation at the annual Open Repositories Conference, Indianapolis, IN.
 
-Radio, E. (2015). Utility of the Legacy MARC Records: Analyses and Ways to Support Discovery Services. Presentation at the annual ALA Midwinter Conference, Chicago, IL.
+Radio, E. (2015). "Utility of the Legacy MARC Records: Analyses and Ways to Support Discovery Services." Presentation at the annual ALA Midwinter Conference, Chicago, IL.
 
-Radio, E. (2014). Information Continuity: A Temporal Approach to Assessing Metadata and Organizational Quality in an Institutional Repository. Presentation at the annual MTSR Conference, Karlsruhe, Germany.
+Radio, E. (2014). "Information Continuity: A Temporal Approach to Assessing Metadata and Organizational Quality in an Institutional Repository." Presentation at the annual MTSR Conference, Karlsruhe, Germany.
 
-Radio, E. (2014). Looking into Infinity: Using the Deep Web as a Pedagogical Resource. Presentation at the annual LOEX Conference, Grand Rapids, MI.
+Radio, E. (2014). "Looking into Infinity: Using the Deep Web as a Pedagogical Resource." Presentation at the annual LOEX Conference, Grand Rapids, MI.
 
 
 
 ### posters
 
-Elsborg, D., Wilson, A., Mika, K., Radio, E., Ramey, M., and Viggio, A. (2019). Opportunities for Intra-institutional Linked Open Data: Towards a Campus Knowledge Graph. Poster at the annual VIVO Conference, Podgorica, Montenegro.
+Elsborg, D., Wilson, A., Mika, K., Radio, E., Ramey, M., and Viggio, A. (2019). "Opportunities for Intra-institutional Linked Open Data: Towards a Campus Knowledge Graph." Poster at the annual VIVO Conference, Podgorica, Montenegro.
 
-Ortega, É. and Radio, E. (2017). A Handbook of Electronic Literature Reading. Poster at the annual Digital Humanities Conference, Montréal, QC.
+Ortega, É. and Radio, E. (2017). "A Handbook of Electronic Literature Reading." Poster at the annual Digital Humanities Conference, Montréal, QC.
 
-Radio, E. (2015). Synopticity and RDF Implementation in Special Collections. Poster presented at the annual DLF Forum, Vancouver, BC. hdl:[http://hdl.handle.net/1808/18745](http://hdl.handle.net/1808/18745)
+Radio, E. (2015). "Synopticity and RDF Implementation in Special Collections." Poster presented at the annual DLF Forum, Vancouver, BC. hdl:[http://hdl.handle.net/1808/18745](http://hdl.handle.net/1808/18745)
 
-Radio, E. & Balsamo, B. (2014). Metadata Scope and its Implications for Determining Data Relevance. Poster presented at the annual IDCC Conference, San Francisco, CA.
+Radio, E. & Balsamo, B. (2014). "Metadata Scope and its Implications for Determining Data Relevance." Poster presented at the annual IDCC Conference, San Francisco, CA.
 
-Radio, E. & Balsamo, B. (2014). The Role of Libraries in Cryptographic Literacy. Poster presented at the annual Bobcatsss Conference, Barcelona, Spain.
+Radio, E. & Balsamo, B. (2014). "The Role of Libraries in Cryptographic Literacy." Poster presented at the annual Bobcatsss Conference, Barcelona, Spain.
 
-Radio, E. (2013). Personal Information Management. Poster presented at the annual LOEX Conference, Nashville, TN.
+Radio, E. (2013). "Personal Information Management." Poster presented at the annual LOEX Conference, Nashville, TN.
 
 <a href="{{ site.url }}{{ "/" | relative_url }}"><b>*</b></a>
