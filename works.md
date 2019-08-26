@@ -7,6 +7,8 @@ title: works
 
 ### articles
 
+Radio, E. (2019). "Documents for the Nonhuman." _Journal of Critical Library and Information Studies._ https://journals.litwinbooks.com/index.php/jclis/article/view/108
+
 Radio, E. (2018). "Abstraction, Concrescence, and Identity in Descriptive Metadata." _Journal of Library Metadata._ doi:[10.1080/19386389.2018.1461455](https://www.tandfonline.com/doi/full/10.1080/19386389.2018.1461455),hdl:[http://hdl.handle.net/10150/627543](http://hdl.handle.net/10150/627543)
 
 Radio, E., Rios, F., Oliver, J., Hickson, B., and Wallace, N. (2018).  “Manifestations of Metadata Structures in Research Datasets and their Ontic Implications.” _Journal of Library Metadata._ doi:[10.1080/19386389.2018.1439278](https://www.tandfonline.com/doi/full/10.1080/19386389.2018.1439278)
