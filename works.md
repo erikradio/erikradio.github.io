@@ -11,19 +11,19 @@ Radio, E. (2019). "A survey of time based approaches for linked data." _Library 
 
 Radio, E. (2019). "Documents for the Nonhuman." _Journal of Critical Library and Information Studies._ [https://journals.litwinbooks.com/index.php/jclis/article/view/108](https://journals.litwinbooks.com/index.php/jclis/article/view/108)
 
-Radio, E. (2018). "Abstraction, Concrescence, and Identity in Descriptive Metadata." _Journal of Library Metadata._ doi:[10.1080/19386389.2018.1461455](https://www.tandfonline.com/doi/full/10.1080/19386389.2018.1461455),hdl:[http://hdl.handle.net/10150/627543](http://hdl.handle.net/10150/627543)
+Radio, E. (2018). "Abstraction, Concrescence, and Identity in Descriptive Metadata." _Journal of Library Metadata._ doi:[10.1080/19386389.2018.1461455](https://doi.org/10.1080/19386389.2018.1461455),hdl:[http://hdl.handle.net/10150/627543](http://hdl.handle.net/10150/627543)
 
-Radio, E., Rios, F., Oliver, J., Hickson, B., and Wallace, N. (2018).  “Manifestations of Metadata Structures in Research Datasets and their Ontic Implications.” _Journal of Library Metadata._ doi:[10.1080/19386389.2018.1439278](https://www.tandfonline.com/doi/full/10.1080/19386389.2018.1439278)
+Radio, E., Rios, F., Oliver, J., Hickson, B., and Wallace, N. (2018).  “Manifestations of Metadata Structures in Research Datasets and their Ontic Implications.” _Journal of Library Metadata._ doi:[10.1080/19386389.2018.1439278](https://doi.org/10.1080/19386389.2018.1439278)
 
-Hanrath, S. and Radio, E. (2017). “User Search Terms and Controlled Subject Vocabularies in an Institutional Repository.” _Library Hi Tech._ doi:[10.1108/LHT-11-2016-0133](https://www.emeraldinsight.com/doi/full/10.1108/LHT-11-2016-0133),hdl:[http://hdl.handle.net/1808/24899](http://hdl.handle.net/1808/24899)
+Hanrath, S. and Radio, E. (2017). “User Search Terms and Controlled Subject Vocabularies in an Institutional Repository.” _Library Hi Tech._ doi:[10.1108/LHT-11-2016-0133](https://doi.org/10.1108/LHT-11-2016-0133),hdl:[http://hdl.handle.net/1808/24899](http://hdl.handle.net/1808/24899)
 
-Kliewer, G., Monroe-Gulick, A., Gamble, S., and Radio, E. (2016). “Using Primo for undergraduate research: a usability study.” _Library Hi Tech._ doi:[10.1108/LHT-05-2016-0052](https://www.emeraldinsight.com/doi/10.1108/LHT-05-2016-0052),hdl:[http://hdl.handle.net/10150/622794](http://hdl.handle.net/10150/622794)
+Kliewer, G., Monroe-Gulick, A., Gamble, S., and Radio, E. (2016). “Using Primo for undergraduate research: a usability study.” _Library Hi Tech._ doi:[10.1108/LHT-05-2016-0052](https://doi.org/10.1108/LHT-05-2016-0052),hdl:[http://hdl.handle.net/10150/622794](http://hdl.handle.net/10150/622794)
 
-Radio, E. and Hanrath, S. (2016) “Measuring the Impact and Effectiveness of Transitioning to a Linked Data Vocabulary.” _Journal of Library Metadata._ doi:[10.1080/19386389.2016.1215734](www.tandfonline.com/doi/full/10.1080/19386389.2016.1215734),hdl:[http://hdl.handle.net/1808/21759](http://hdl.handle.net/1808/21759)
+Radio, E. and Hanrath, S. (2016) “Measuring the Impact and Effectiveness of Transitioning to a Linked Data Vocabulary.” _Journal of Library Metadata._ doi:[10.1080/19386389.2016.1215734](whttps://doi.org/10.1080/19386389.2016.1215734),hdl:[http://hdl.handle.net/1808/21759](http://hdl.handle.net/1808/21759)
 
-Radio, E. (2016). “Semiotic Principles for Metadata Auditing and Evaluation.” _Cataloging and Classification Quarterly._ doi:[10.1080/01639374.2015.1133750](https://www.tandfonline.com/doi/abs/10.1080/01639374.2015.1133750),hdl:[http://hdl.handle.net/1808/19793](http://hdl.handle.net/1808/19793)
+Radio, E. (2016). “Semiotic Principles for Metadata Auditing and Evaluation.” _Cataloging and Classification Quarterly._ doi:[10.1080/01639374.2015.1133750](https://doi.org/10.1080/01639374.2015.1133750),hdl:[http://hdl.handle.net/1808/19793](http://hdl.handle.net/1808/19793)
 
-Radio, E. (2014). “Information Continuity: A Temporal Approach to Assessing Metadata and Organizational Quality in an Institutional Repository.” Proceedings of the 8th Metadata and Semantics Research Conference. doi:[10.1007/978-3-319-13674-5_22](https://link.springer.com/chapter/10.1007/978-3-319-13674-5_22),hdl:[http://hdl.handle.net/1808/17112](http://hdl.handle.net/1808/17112)
+Radio, E. (2014). “Information Continuity: A Temporal Approach to Assessing Metadata and Organizational Quality in an Institutional Repository.” Proceedings of the 8th Metadata and Semantics Research Conference. doi:[10.1007/978-3-319-13674-5_22](https://doi.org/10.1007/978-3-319-13674-5_22),hdl:[http://hdl.handle.net/1808/17112](http://hdl.handle.net/1808/17112)
 
 
 ### conference presentations
