@@ -27,6 +27,11 @@ Radio, E. (2014). “Information Continuity: A Temporal Approach to Assessing Me
 
 
 ### conference presentations
+
+Johnson, A., Caillet, R., Cantrell, M., Dulock, M., Fletcher, K., Radio, E., Schumacher, F., Stacy, M., Trinh, D. (2019). "Racing Against Time: A Repository Migration to Samvera in One Year Flat." Presentation at the annual DLF Forum, Tampa, FL.
+
+Radio, E. (2019). "Reorienting Authority Lists to Document Climate Change in the NSIDC Glacier Image Collection." Presentation at the annual DLF Forum, Tampa, FL. [https://osf.io/3qhek/](https://osf.io/3qhek/)
+
 Kalwara, J. and Radio. E. (2019). "Cataloging in a Linked Data Environment: An Exploration by the University of Colorado Boulder." Presentation at the annual ALA Conference, Washington, D.C.
 
 Radio, E. (2019). "A Survey of Time-Based Approaches to Serializing Linked Data." Presentation at the LD4 Conference on Linked Data in Libraries, Boston, MA.
