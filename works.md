@@ -28,6 +28,8 @@ Radio, E. (2014). “Information Continuity: A Temporal Approach to Assessing Me
 
 ### conference presentations
 
+Bernier, S., Nadav-Manes, B., Palmer, R., and Radio, E. (2020). "The Need for Greater Interoperability: As User Expectations Evolve, So Should the Library Software They Use." Presentation at the annual ER & L Conference, Austin, TX.
+
 Johnson, A., Caillet, R., Cantrell, M., Dulock, M., Fletcher, K., Radio, E., Schumacher, F., Stacy, M., Trinh, D. (2019). "Racing Against Time: A Repository Migration to Samvera in One Year Flat." Presentation at the annual DLF Forum, Tampa, FL.
 
 Radio, E. (2019). "Reorienting Authority Lists to Document Climate Change in the NSIDC Glacier Image Collection." Presentation at the annual DLF Forum, Tampa, FL. [https://osf.io/3qhek/](https://osf.io/3qhek/)
