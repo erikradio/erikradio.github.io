@@ -9,7 +9,7 @@ title: works
 
 Radio, E. (2019). "A survey of time based approaches for linked data." _Library Hi Tech._ doi:[10.1108/LHT-04-2019-0084](https://doi.org/10.1108/LHT-04-2019-0084)
 
-Radio, E. (2019). "Documents for the Nonhuman." _Journal of Critical Library and Information Studies._ [https://journals.litwinbooks.com/index.php/jclis/article/view/108](https://journals.litwinbooks.com/index.php/jclis/article/view/108)
+Radio, E. (2019). "Documents for the Nonhuman." _Journal of Critical Library and Information Studies._ doi:[10.24242/jclis.v3i1.108 ](https://doi.org/10.24242/jclis.v3i1.108 )
 
 Radio, E. (2018). "Abstraction, Concrescence, and Identity in Descriptive Metadata." _Journal of Library Metadata._ doi:[10.1080/19386389.2018.1461455](https://doi.org/10.1080/19386389.2018.1461455),hdl:[http://hdl.handle.net/10150/627543](http://hdl.handle.net/10150/627543)
 
