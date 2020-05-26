@@ -7,6 +7,8 @@ title: works
 
 ### articles
 
+Radio, E., Fletcher, K., and Merredyth, A. (2020) "Creating and Using a Glacier Authority Index to Document Climate Change." _Cataloging & Classification Quarterly._ doi:[10.1080/01639374.2020.1762144](https://doi.org/10.1080/01639374.2020.1762144)
+
 Radio, E. (2019). "A survey of time based approaches for linked data." _Library Hi Tech._ doi:[10.1108/LHT-04-2019-0084](https://doi.org/10.1108/LHT-04-2019-0084)
 
 Radio, E. (2019). "Documents for the Nonhuman." _Journal of Critical Library and Information Studies._ doi:[10.24242/jclis.v3i1.108 ](https://doi.org/10.24242/jclis.v3i1.108 )
