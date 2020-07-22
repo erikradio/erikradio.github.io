@@ -30,6 +30,8 @@ Radio, E. (2014). “Information Continuity: A Temporal Approach to Assessing Me
 
 ### conference presentations
 
+Radio, E. (2020). "Applying Minimal Computing to Ontology Design." Presentation at the annual LD4 Conference on Linked Data in Libraries. [recording](https://t.co/TrO8yRWDek?amp=1)
+
 Bernier, S., Nadav-Manes, B., Palmer, R., and Radio, E. (2020). "The Need for Greater Interoperability: As User Expectations Evolve, So Should the Library Software They Use." Presentation at the annual ER & L Conference, Austin, TX.
 
 Johnson, A., Caillet, R., Cantrell, M., Dulock, M., Fletcher, K., Radio, E., Schumacher, F., Stacy, M., Trinh, D. (2019). "Racing Against Time: A Repository Migration to Samvera in One Year Flat." Presentation at the annual DLF Forum, Tampa, FL.
