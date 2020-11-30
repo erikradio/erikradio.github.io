@@ -7,7 +7,9 @@ title: works
 
 ### articles
 
-Radio, E., Fletcher, K., and Merredyth, A. (2020) "Creating and Using a Glacier Authority Index to Document Climate Change." _Cataloging & Classification Quarterly._ doi:[10.1080/01639374.2020.1762144](https://doi.org/10.1080/01639374.2020.1762144)
+Trujillo, N., Radio, E., and Walker, M. (2020). "What Metadata Matters? Correlation of Metadata Elements with Click Through Rates for E-Books and Streaming Video in the Academic Library Catalog Public." _Journal of Web Librarianship._ doi:[10.1080/19322909.2020.1850390](https://doi.org/10.1080/19322909.2020.1850390), OA URL: [https://scholar.colorado.edu/concern/articles/kw52j913v](https://scholar.colorado.edu/concern/articles/kw52j913v)
+
+Radio, E., Fletcher, K., and Merredyth, A. (2020). "Creating and Using a Glacier Authority Index to Document Climate Change." _Cataloging & Classification Quarterly._ doi:[10.1080/01639374.2020.1762144](https://doi.org/10.1080/01639374.2020.1762144)
 
 Radio, E. (2019). "A survey of time based approaches for linked data." _Library Hi Tech._ doi:[10.1108/LHT-04-2019-0084](https://doi.org/10.1108/LHT-04-2019-0084)
 
