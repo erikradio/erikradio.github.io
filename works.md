@@ -32,7 +32,7 @@ Radio, E. (2014). “Information Continuity: A Temporal Approach to Assessing Me
 
 ### conference presentations
 
-Palmer, R., Travis, B., Kim, B., and Radio, E. "Open versus Proprietary in Software and Systems." Panel at the annual Niso Plus Conference.
+Palmer, R., Travis, B., Kim, B., and Radio, E. (2021). "Open versus Proprietary in Software and Systems." Panel at the annual Niso Plus Conference.
 
 Radio, E. (2020). "Applying Minimal Computing to Ontology Design." Presentation at the annual LD4 Conference on Linked Data in Libraries. [recording](https://t.co/TrO8yRWDek?amp=1), [essay](https://go-dh.github.io/mincomp/thoughts/2020/07/21/minimal-ontology/)
 
