@@ -7,7 +7,7 @@ title: works
 
 ### articles
 
-White, P. and Radio, E. (2021). "Mapping Search Queries to Metadata Fields in a GeoBlacklight Repository." _Journal of Library Metadata._ doi:10.1080/19386389.2020.1915459(https://doi.org/10.1080/19386389.2020.1915459)
+White, P. and Radio, E. (2021). "Mapping Search Queries to Metadata Fields in a GeoBlacklight Repository." _Journal of Library Metadata._ doi:10.1080/19386389.2020.1915459](https://doi.org/10.1080/19386389.2020.1915459)
 
 Trujillo, N., Radio, E., and Walker, M. (2020). "What Metadata Matters? Correlation of Metadata Elements with Click Through Rates for E-Books and Streaming Video in the Academic Library Catalog." _Journal of Web Librarianship._ doi:[10.1080/19322909.2020.1850390](https://doi.org/10.1080/19322909.2020.1850390), OA URL: [https://scholar.colorado.edu/concern/articles/kw52j913v](https://scholar.colorado.edu/concern/articles/kw52j913v)
 
