@@ -34,6 +34,10 @@ Radio, E. (2014). “Information Continuity: A Temporal Approach to Assessing Me
 
 ### conference presentations
 
+Camden, B., Bigelow, I., Hahn, J. Jakobsen, P., and Radio, E. (2021).“Share-VDE 2.0: a panel discussion among the Share-VDE working group chairs.” Panel at the annual LD4 Conference on Linked Data.
+
+Lindquist, T., and Radio, E. (2021). “Publications of the Fruchtbringende Gesellschaft (Fruitbearing Society) as reflected in the VD17.” Lightning talk at the annual ACH Conference.
+
 Palmer, R., Travis, B., Kim, B., and Radio, E. (2021). "Open versus Proprietary in Software and Systems." Panel at the annual Niso Plus Conference.
 
 Radio, E. (2020). "Applying Minimal Computing to Ontology Design." Presentation at the annual LD4 Conference on Linked Data in Libraries. [recording](https://t.co/TrO8yRWDek?amp=1), [essay](https://go-dh.github.io/mincomp/thoughts/2020/07/21/minimal-ontology/)
@@ -62,7 +66,7 @@ Radio, E. and Kompare, C. (2016). "Object-Oriented UX and Metadata for Digital C
 
 Hanrath, S. and E. Radio (2015). "User Search Terms and Controlled Subject Vocabularies in an Institutional Repository." Presentation at the annual Open Repositories Conference, Indianapolis, IN.
 
-Radio, E. (2015). "Utility of the Legacy MARC Records: Analyses and Ways to Support Discovery Services." Presentation at the annual ALA Midwinter Conference, Chicago, IL.
+Radio, E., Yarrito, S., Fallaw, C., Han, M.J., and Cole, T. (2015). "Utility of the Legacy MARC Records: Analyses and Ways to Support Discovery Services." Presentation at the annual ALA Midwinter Conference, Chicago, IL.
 
 Radio, E. (2014). "Information Continuity: A Temporal Approach to Assessing Metadata and Organizational Quality in an Institutional Repository." Presentation at the annual MTSR Conference, Karlsruhe, Germany.
 
