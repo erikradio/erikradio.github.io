@@ -32,6 +32,7 @@ Radio, E. (2016). “Semiotic Principles for Metadata Auditing and Evaluation.�
 Radio, E. (2014). “Information Continuity: A Temporal Approach to Assessing Metadata and Organizational Quality in an Institutional Repository.” Proceedings of the 8th Metadata and Semantics Research Conference. doi:[10.1007/978-3-319-13674-5_22](https://doi.org/10.1007/978-3-319-13674-5_22),hdl:[http://hdl.handle.net/1808/17112](http://hdl.handle.net/1808/17112)
 
 
+
 ### conference presentations
 
 Camden, B., Bigelow, I., Hahn, J. Jakobsen, P., and Radio, E. (2021).“Share-VDE 2.0: a panel discussion among the Share-VDE working group chairs.” Panel at the annual LD4 Conference on Linked Data.
@@ -71,6 +72,7 @@ Radio, E., Yarrito, S., Fallaw, C., Han, M.J., and Cole, T. (2015). "Utility of 
 Radio, E. (2014). "Information Continuity: A Temporal Approach to Assessing Metadata and Organizational Quality in an Institutional Repository." Presentation at the annual MTSR Conference, Karlsruhe, Germany.
 
 Radio, E. (2014). "Looking into Infinity: Using the Deep Web as a Pedagogical Resource." Presentation at the annual LOEX Conference, Grand Rapids, MI.
+
 
 
 
