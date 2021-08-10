@@ -7,6 +7,8 @@ title: works
 
 ### articles
 
+Radio, E. and Kalwara, J. (2021). "The trajectory of linked data in late capitalism." _Journal of Documentation._ [doi:10.1108/JD-02-2021-0037](https://doi.org/10.1108/JD-02-2021-0037)
+
 White, P. and Radio, E. (2021). "Mapping Search Queries to Metadata Fields in a GeoBlacklight Repository." _Journal of Library Metadata._ [doi:10.1080/19386389.2020.1915459](https://doi.org/10.1080/19386389.2020.1915459)
 
 Trujillo, N., Radio, E., and Walker, M. (2020). "What Metadata Matters? Correlation of Metadata Elements with Click Through Rates for E-Books and Streaming Video in the Academic Library Catalog." _Journal of Web Librarianship._ doi:[10.1080/19322909.2020.1850390](https://doi.org/10.1080/19322909.2020.1850390), OA URL: [https://scholar.colorado.edu/concern/articles/kw52j913v](https://scholar.colorado.edu/concern/articles/kw52j913v)
@@ -30,7 +32,7 @@ Radio, E. and Hanrath, S. (2016) “Measuring the Impact and Effectiveness of Tr
 Radio, E. (2016). “Semiotic Principles for Metadata Auditing and Evaluation.” _Cataloging and Classification Quarterly._ doi:[10.1080/01639374.2015.1133750](https://doi.org/10.1080/01639374.2015.1133750),hdl:[http://hdl.handle.net/1808/19793](http://hdl.handle.net/1808/19793)
 
 Radio, E. (2014). “Information Continuity: A Temporal Approach to Assessing Metadata and Organizational Quality in an Institutional Repository.” Proceedings of the 8th Metadata and Semantics Research Conference. doi:[10.1007/978-3-319-13674-5_22](https://doi.org/10.1007/978-3-319-13674-5_22),hdl:[http://hdl.handle.net/1808/17112](http://hdl.handle.net/1808/17112)
-
+https://doi.org/10.1108/JD-02-2021-0037
 
 
 ### conference presentations
