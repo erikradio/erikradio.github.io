@@ -29,7 +29,7 @@ Kliewer, G., Monroe-Gulick, A., Gamble, S., and Radio, E. (2016). “Using Primo
 
 Radio, E. and Hanrath, S. (2016) “Measuring the Impact and Effectiveness of Transitioning to a Linked Data Vocabulary.” _Journal of Library Metadata._ doi:[10.1080/19386389.2016.1215734](https://doi.org/10.1080/19386389.2016.1215734),hdl:[http://hdl.handle.net/1808/21759](http://hdl.handle.net/1808/21759)
 
-Radio, E. (2016). “Semiotic Principles for Metadata Auditing and Evaluation.” _Cataloging and Classification Quarterly._ doi:[10.1080/01639374.2015.1133750](https://doi.org/10.1080/01639374.2015.1133750),hdl:[http://hdl.handle.net/1808/19793](http://hdl.handle.net/1808/19793) \\
+Radio, E. (2016). “Semiotic Principles for Metadata Auditing and Evaluation.” _Cataloging and Classification Quarterly._ doi:[10.1080/01639374.2015.1133750](https://doi.org/10.1080/01639374.2015.1133750),hdl:[http://hdl.handle.net/1808/19793](http://hdl.handle.net/1808/19793)    
 
 
 
@@ -37,7 +37,7 @@ Radio, E. (2016). “Semiotic Principles for Metadata Auditing and Evaluation.�
 ### conference proceedings
 
 Radio, E. (2014). “Information Continuity: A Temporal Approach to Assessing Metadata and Organizational Quality in an Institutional Repository.” Proceedings of the 8th Metadata and Semantics Research Conference. doi:[10.1007/978-3-319-13674-5_22](https://doi.org/10.1007/978-3-319-13674-5_22),hdl:[http://hdl.handle.net/1808/17112](http://hdl.handle.net/1808/17112)
-https://doi.org/10.1108/JD-02-2021-0037 \\
+https://doi.org/10.1108/JD-02-2021-0037    
 
 ### conference presentations
 
@@ -77,7 +77,7 @@ Radio, E., Yarrito, S., Fallaw, C., Han, M.J., and Cole, T. (2015). "Utility of 
 
 Radio, E. (2014). "Information Continuity: A Temporal Approach to Assessing Metadata and Organizational Quality in an Institutional Repository." Presentation at the annual MTSR Conference, Karlsruhe, Germany.
 
-Radio, E. (2014). "Looking into Infinity: Using the Deep Web as a Pedagogical Resource." Presentation at the annual LOEX Conference, Grand Rapids, MI. \\
+Radio, E. (2014). "Looking into Infinity: Using the Deep Web as a Pedagogical Resource." Presentation at the annual LOEX Conference, Grand Rapids, MI.    
 
 
 ### posters
