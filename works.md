@@ -31,6 +31,9 @@ Radio, E. and Hanrath, S. (2016) “Measuring the Impact and Effectiveness of Tr
 
 Radio, E. (2016). “Semiotic Principles for Metadata Auditing and Evaluation.” _Cataloging and Classification Quarterly._ doi:[10.1080/01639374.2015.1133750](https://doi.org/10.1080/01639374.2015.1133750),hdl:[http://hdl.handle.net/1808/19793](http://hdl.handle.net/1808/19793)
 
+
+### conference proceedings
+
 Radio, E. (2014). “Information Continuity: A Temporal Approach to Assessing Metadata and Organizational Quality in an Institutional Repository.” Proceedings of the 8th Metadata and Semantics Research Conference. doi:[10.1007/978-3-319-13674-5_22](https://doi.org/10.1007/978-3-319-13674-5_22),hdl:[http://hdl.handle.net/1808/17112](http://hdl.handle.net/1808/17112)
 https://doi.org/10.1108/JD-02-2021-0037
 
