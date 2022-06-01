@@ -7,6 +7,8 @@ title: works
 
 ### articles
 
+Radio, E., Gregonis, K., Werling, S., White, P., and Crosbie, K. (2022). “Evaluation of Geographic Vocabularies and their Usage.” _Journal of Map & Geography Libraries._ [doi:10.1080/15420353.2022.2068108](https://doi.org/10.1080/15420353.2022.2068108)
+
 Radio, E. and Kalwara, J. (2021). "The trajectory of linked data in late capitalism." _Journal of Documentation._ [doi:10.1108/JD-02-2021-0037](https://doi.org/10.1108/JD-02-2021-0037)
 
 White, P. and Radio, E. (2021). "Mapping Search Queries to Metadata Fields in a GeoBlacklight Repository." _Journal of Library Metadata._ [doi:10.1080/19386389.2020.1915459](https://doi.org/10.1080/19386389.2020.1915459)
