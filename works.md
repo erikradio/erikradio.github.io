@@ -33,7 +33,9 @@ Radio, E. and Hanrath, S. (2016) “Measuring the Impact and Effectiveness of Tr
 
 Radio, E. (2016). “Semiotic Principles for Metadata Auditing and Evaluation.” _Cataloging and Classification Quarterly._ doi:[10.1080/01639374.2015.1133750](https://doi.org/10.1080/01639374.2015.1133750),hdl:[http://hdl.handle.net/1808/19793](http://hdl.handle.net/1808/19793)    
 
+### chapters
 
+Kalwara, J. and Radio, E. (2023). Triples and the Grammar of Control. In A. Provo, K. Burlingame, & B.M. Watson (Eds.) _Ethics in Linked Data_. Litwin Press.
 
 
 ### conference proceedings
