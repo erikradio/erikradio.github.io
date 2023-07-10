@@ -45,6 +45,8 @@ https://doi.org/10.1108/JD-02-2021-0037
 
 ### conference presentations
 
+Azizifard, N.,  Janicki1, M., Lindquist, T., Mäkelä, E., Radio, E. "Let Everything be of Use?: Data Issues in Exploring the Publications and Networks of the Members of the Fruitbearing Society in the VD17." Presentation at the Digital Humanities conference. Graz, AT.
+
 Radio, E. (2023). "Disrupting Library Collections through the Value of Media Obsolescence." Presentation at the Electronic Literature Organization conference. Coimbra, PT.
 
 Lindquist, T., and Radio, E. (2022). "Metadata Tools for Bibliographic Data Science." Presentation at the Digital Humanities in the Nordic And Baltic Countries conference. Online.
