@@ -7,6 +7,8 @@ title: works
 
 ### articles
 
+Werling, S. and Radio, E. (2024). "Comparing Critical Cataloging Procedures and Developing Local Policies in the Context of Digital Library Metadata." _Journal of Library Metadata._ [doi:10.1080/19386389.2024.2407710](https://doi.org/10.1080/19386389.2024.2407710)
+
 Radio, E., Gregonis, K., Werling, S., White, P., and Crosbie, K. (2022). “Evaluation of Geographic Vocabularies and their Usage.” _Journal of Map & Geography Libraries._ [doi:10.1080/15420353.2022.2068108](https://doi.org/10.1080/15420353.2022.2068108)
 
 Radio, E. and Kalwara, J. (2021). "The trajectory of linked data in late capitalism." _Journal of Documentation._ [doi:10.1108/JD-02-2021-0037](https://doi.org/10.1108/JD-02-2021-0037)
