@@ -7,6 +7,8 @@ title: works
 
 ### articles
 
+Radio, E., White, P., & Eichmann-Kalwara, N. (2025). Evaluation of Large Language Models for Use in Geographic Metadata Workflows. _Journal of Map & Geography Libraries._ [doi:10.1080/15420353.2025.2601969] (https://doi.org/10.1080/15420353.2025.2601969)
+
 Werling, S. and Radio, E. (2024). "Comparing Critical Cataloging Procedures and Developing Local Policies in the Context of Digital Library Metadata." _Journal of Library Metadata._ [doi:10.1080/19386389.2024.2407710](https://doi.org/10.1080/19386389.2024.2407710)
 
 Radio, E., Gregonis, K., Werling, S., White, P., and Crosbie, K. (2022). “Evaluation of Geographic Vocabularies and their Usage.” _Journal of Map & Geography Libraries._ [doi:10.1080/15420353.2022.2068108](https://doi.org/10.1080/15420353.2022.2068108)
@@ -46,6 +48,8 @@ Radio, E. (2014). “Information Continuity: A Temporal Approach to Assessing Me
 https://doi.org/10.1108/JD-02-2021-0037    
 
 ### conference presentations
+
+Radio, E., White, P., & Eichmann-Kalwara, N. (2025). Measuring and Critiquing genAI Tools for Geographic Metadata Creation. Presentation at the Digital Library Federation Forum. Denver, CO. 
 
 Sweeney, A., Radio, E. and Gunapaneedu, M. (2025). "Cataloging historical tsunami marigrams from microfilm images." Poster presented at the European Geosciences Union general assembly. Vienna, AT. 
 
