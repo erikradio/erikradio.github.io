@@ -7,7 +7,7 @@ title: works
 
 ### articles
 
-Radio, E., White, P., & Eichmann-Kalwara, N. (2025). Evaluation of Large Language Models for Use in Geographic Metadata Workflows. _Journal of Map & Geography Libraries._ [doi:10.1080/15420353.2025.2601969] (https://doi.org/10.1080/15420353.2025.2601969)
+Radio, E., White, P., & Eichmann-Kalwara, N. (2025). Evaluation of Large Language Models for Use in Geographic Metadata Workflows. _Journal of Map & Geography Libraries._ [doi:10.1080/15420353.2025.2601969](https://doi.org/10.1080/15420353.2025.2601969)
 
 Werling, S. and Radio, E. (2024). "Comparing Critical Cataloging Procedures and Developing Local Policies in the Context of Digital Library Metadata." _Journal of Library Metadata._ [doi:10.1080/19386389.2024.2407710](https://doi.org/10.1080/19386389.2024.2407710)
 
