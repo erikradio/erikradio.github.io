@@ -39,6 +39,8 @@ Radio, E. (2016). â€œSemiotic Principles for Metadata Auditing and Evaluation.â€
 
 ### chapters
 
+Radio, E. (2025). Massive Unseen Companions and the Documentary Project. In N. Solhjoo (Ed.) _Multispecies Information Science_. Routledge.
+
 Kalwara, J. and Radio, E. (2023). Triples and the Grammar of Control. In A. Provo, K. Burlingame, & B.M. Watson (Eds.) _Ethics in Linked Data_. Litwin Press.
 
 
